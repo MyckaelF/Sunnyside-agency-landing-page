@@ -37,7 +37,7 @@ img {
     justify-content: space-between;
     align-items: center;
     top: 3%;
-    padding: 0 30px;
+    padding: 0 3%;
     font-size: 1rem;
 }
 
@@ -163,10 +163,9 @@ img {
     color: var(--very-dark-desaturatedBlue);
     letter-spacing: 0.1rem;
     text-shadow: 0 0 1px var(--very-dark-desaturatedBlue);
-    border-radius: 8px;
+    border-radius: 10px;
     margin-left: 5px;
     width: fit-content;
-    margin: 0 auto;
 }
 
 .textContent > a::after {
@@ -499,7 +498,7 @@ img {
     .text img {
         margin-top: 40px;
     }
-    
+
     .text h1 {
         font-size: 2rem;
     }
