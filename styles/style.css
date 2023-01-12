@@ -10,6 +10,7 @@ body {
     font-size: var(--fontSize);
     font-family: var(--fontBarlow);
     color: var(--white);
+    background-color: var(--white);
 }
 
 li {
